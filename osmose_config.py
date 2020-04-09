@@ -284,6 +284,7 @@ france_departement("aquitaine/gironde", 7405, "FR-33", include=include_aquitaine
     'merge_public_equipment_FR_bordeaux_toilets',
     'merge_public_transport_FR_tbm',
     'merge_street_number_bordeaux',
+    'merge_freefloating_parking_FR_bordeaux',
     # Gironde
     'merge_public_transport_FR_transgironde',
 ])
